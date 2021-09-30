@@ -1,6 +1,6 @@
 {
-  "name": "@eik/service",
-  "version": "1.2.94",
+  "name": "@amedia/eik-lib-service",
+  "version": "1.2.94-cache-control",
   "description": "Eik REST API as a standalone HTTP service",
   "main": "./lib/main.js",
   "bin": {
@@ -25,7 +25,7 @@
     "type": "git",
     "url": "git@github.com:eik-lib/service.git"
   },
-  "author": "",
+  "author": "Finn.no",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/eik-lib/service/issues"
