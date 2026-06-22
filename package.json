@@ -40,7 +40,7 @@
     "fastify-cors": "6.0.2",
     "fastify-jwt": "3.2.0",
     "http-errors": "1.8.0",
-    "js-yaml": "4.1.0",
+    "js-yaml": "4.2.0",
     "pino": "6.13.3"
   },
   "devDependencies": {
